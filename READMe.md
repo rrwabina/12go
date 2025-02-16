@@ -1,6 +1,10 @@
 # Exploratory Data Analysis: Fraud Detection for 12GO
 
----
+There are two main Jupyter notebooks in this repository, where the exploration notebook consists the exploratory data analysis and feature selection (univariate analysis), while the model notebook consists the machine learning models I used for the analysis. I also added a READMe file that consists a conclusion section summarizing my key findings.
+```
+../src/01_exploration.ipynb
+../src/02_model.ipynb
+```
 
 ## Summary & Discussion
 
