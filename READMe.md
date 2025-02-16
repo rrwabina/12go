@@ -1,11 +1,19 @@
 # Exploratory Data Analysis: Fraud Detection for 12GO
 
-There are two main Jupyter notebooks in this repository, where the exploration notebook consists the exploratory data analysis and feature selection (univariate analysis), while the model notebook consists the machine learning models I used for the analysis. I also added a READMe file that consists a conclusion section summarizing my key findings.
+This repository contains two primary Jupyter notebooks, each serving a distinct purpose in the fraud detection analysis:
+
+- Exploratory Data Analysis (EDA) & Feature Selection: includes comprehensive exploratory data analysis (EDA) to uncover key trends, anomalies, and relationships within the dataset.
+It also performs univariate feature selection using logistic regression to identify the most relevant predictors of fraudulent transactions.
 ```
 ../src/01_exploration.ipynb
-../src/02_model.ipynb
 ```
 
+- Machine Learning Models: implements multiple fraud detection models, including XGBoost, LightGBM, HistGradientBoostingClassifier, and Isolation Forest.
+It features hyperparameter tuning, model evaluation, and performance comparison to determine the best fraud detection approach.
+```
+../src/02_model.ipynb
+```
+Additionally, this repository includes a README file that summarizes the key findings, insights, and business recommendations derived from the analysis.
 ## Summary & Discussion
 
 ### Data Profile
