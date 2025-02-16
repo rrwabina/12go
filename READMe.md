@@ -1,6 +1,5 @@
 # Exploratory Data Analysis: Fraud Detection for 12GO
 
-######## This README provides a comprehensive summary and discussion of our exploratory data analysis and modeling results. The insights cover data characteristics, customer profiles, fraud profiles, and revenue/net price analysis.
 ---
 
 ## Summary & Discussion
